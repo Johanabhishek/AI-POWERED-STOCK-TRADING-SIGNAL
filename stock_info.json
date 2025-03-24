@@ -1,0 +1,26 @@
+{
+    "AAPL": {
+        "Company Name": "Apple Inc.",
+        "Market Cap ($)": 3278873821184,
+        "Sector": "Technology",
+        "Industry": "Consumer Electronics"
+    },
+    "TSLA": {
+        "Company Name": "Tesla, Inc.",
+        "Market Cap ($)": 799980716032,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers"
+    },
+    "GOOGL": {
+        "Company Name": "Alphabet Inc.",
+        "Market Cap ($)": 2011468529664,
+        "Sector": "Communication Services",
+        "Industry": "Internet Content & Information"
+    },
+    "MSFT": {
+        "Company Name": "Microsoft Corporation",
+        "Market Cap ($)": 2908619014144,
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure"
+    }
+}

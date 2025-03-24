@@ -1,0 +1,18 @@
+[
+    {
+        "Stock Ticker":"AAPL",
+        "Trading Signal":"HOLD \ud83e\udd14"
+    },
+    {
+        "Stock Ticker":"TSLA",
+        "Trading Signal":"HOLD \ud83e\udd14"
+    },
+    {
+        "Stock Ticker":"GOOGL",
+        "Trading Signal":"HOLD \ud83e\udd14"
+    },
+    {
+        "Stock Ticker":"MSFT",
+        "Trading Signal":"HOLD \ud83e\udd14"
+    }
+]
